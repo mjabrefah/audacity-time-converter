@@ -1,6 +1,7 @@
 # Audacity Labels Time Format Converter
 
 This Python script converts the times in an Audacity labels file from seconds to `hh:mm:ss.sss` format.
+This is to help with timestamp annotation for the Brilla AI project.
 
 ## Prerequisites
 
