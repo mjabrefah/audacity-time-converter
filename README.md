@@ -115,4 +115,4 @@ input_file = 'labels.txt'  # Name of the input file with labels
 output_file = 'labels_converted.txt'  # Name of the output file for converted labels
 convert_labels_file(input_file, output_file)  # Convert and save the labels
 ```
-Two sample text files have been included. One has already been converted.
+Two sample labels have been included. One has already been converted.
