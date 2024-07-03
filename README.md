@@ -15,7 +15,7 @@ Follow these instructions to use the script for converting your Audacity labels 
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/audacity-labels-converter.git
+git clone https://github.com/mjabrefah/audacity-time-converter.git
 cd audacity-labels-converter
 ```
 
@@ -108,6 +108,7 @@ def convert_labels_file(input_file, output_file):
 ## Example Usage in Script
 
 The script is executed by specifying the input and output file names.
+Two sample text files have been included. One has already been converted.
 
 ```python
 # Example usage:
